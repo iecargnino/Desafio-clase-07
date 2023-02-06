@@ -33,60 +33,60 @@
     "price": 130,
     "thumbnail": "./img/moto-gplus.jpg",
     "code": "0a0AA",
-    "stock": 3
+    "stock": 5
   },
   {
     "id": "5",
-    "title": "Celular",
-    "description": "Xaomi",
+    "title": "Televisor",
+    "description": "Hisense",
     "price": 150,
-    "thumbnail": "./img/tvLG.jpg",
+    "thumbnail": "./img/hisense4k.jpg",
     "code": "0a0AA",
-    "stock": 3
+    "stock": 1
   },
   {
     "id": "6",
-    "title": "Celular",
-    "description": "Xaomi",
-    "price": 150,
-    "thumbnail": "./img/tvLG.jpg",
+    "title": "Notebook",
+    "description": "Mc-Pro",
+    "price": 300,
+    "thumbnail": "./img/applePro.jpg",
     "code": "0a0AA",
     "stock": 3
   },
   {
     "id": "7",
-    "title": "Celular",
-    "description": "Xaomi",
-    "price": 150,
-    "thumbnail": "./img/tvLG.jpg",
+    "title": "Notebook",
+    "description": "MSI",
+    "price": 300,
+    "thumbnail": "./img/laptopMsi.jpg",
     "code": "0a0AA",
-    "stock": 3
+    "stock": 2
   },
   {
     "id": "8",
-    "title": "Celular",
-    "description": "Xaomi",
-    "price": 150,
-    "thumbnail": "./img/tvLG.jpg",
+    "title": "Monitor",
+    "description": "LG",
+    "price": 140,
+    "thumbnail": "./img/lg-flatron.jpg",
     "code": "0a0AA",
-    "stock": 3
+    "stock": 1
   },
   {
     "id": "9",
-    "title": "Celular",
-    "description": "Xaomi",
-    "price": 150,
-    "thumbnail": "./img/tvLG.jpg",
+    "title": "Monitor",
+    "description": "Samsung",
+    "price": 250,
+    "thumbnail": "./img/samsung-19.jpg",
     "code": "0a0AA",
-    "stock": 3
+    "stock": 1
   },
   {
     "id": "10",
-    "title": "Celular",
-    "description": "Xaomi",
-    "price": 150,
-    "thumbnail": "./img/tvLG.jpg",
+    "title": "Teclado",
+    "description": "RedDragon",
+    "price": 170,
+    "thumbnail": "./img/dragon.jpg",
     "code": "0a0AA",
-    "stock": 3
+    "stock": 2
   }
 ]
