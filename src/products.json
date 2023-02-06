@@ -22,6 +22,69 @@
     "title": "Celular",
     "description": "Xaomi",
     "price": 150,
+    "thumbnail": "./img/xaomiRedmi.jpg",
+    "code": "0a0AA",
+    "stock": 3
+  },
+  {
+    "id": "4",
+    "title": "Celular",
+    "description": "Motorola",
+    "price": 130,
+    "thumbnail": "./img/moto-gplus.jpg",
+    "code": "0a0AA",
+    "stock": 3
+  },
+  {
+    "id": "5",
+    "title": "Celular",
+    "description": "Xaomi",
+    "price": 150,
+    "thumbnail": "./img/tvLG.jpg",
+    "code": "0a0AA",
+    "stock": 3
+  },
+  {
+    "id": "6",
+    "title": "Celular",
+    "description": "Xaomi",
+    "price": 150,
+    "thumbnail": "./img/tvLG.jpg",
+    "code": "0a0AA",
+    "stock": 3
+  },
+  {
+    "id": "7",
+    "title": "Celular",
+    "description": "Xaomi",
+    "price": 150,
+    "thumbnail": "./img/tvLG.jpg",
+    "code": "0a0AA",
+    "stock": 3
+  },
+  {
+    "id": "8",
+    "title": "Celular",
+    "description": "Xaomi",
+    "price": 150,
+    "thumbnail": "./img/tvLG.jpg",
+    "code": "0a0AA",
+    "stock": 3
+  },
+  {
+    "id": "9",
+    "title": "Celular",
+    "description": "Xaomi",
+    "price": 150,
+    "thumbnail": "./img/tvLG.jpg",
+    "code": "0a0AA",
+    "stock": 3
+  },
+  {
+    "id": "10",
+    "title": "Celular",
+    "description": "Xaomi",
+    "price": 150,
     "thumbnail": "./img/tvLG.jpg",
     "code": "0a0AA",
     "stock": 3
